@@ -1,6 +1,6 @@
 # VQA_FOR_BREAST_IMRT
 
-This is a self-learning proyect to study how approachable is the AI implementation in radiotherapy using python. To do that, I will use machine learning for patient specific QA gamma index prediction (virtual QA) for breast IMRT treatments.
+This is a self-learning proyect to learn how approachable is the AI implementation in radiotherapy using python. To do that, I will use machine learning for patient specific QA gamma index prediction (virtual QA) for breast IMRT treatments.
 
 ## STARTING POINT AND READING MATERIALS
 
